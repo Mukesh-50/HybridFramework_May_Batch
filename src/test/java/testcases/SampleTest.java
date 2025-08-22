@@ -8,6 +8,9 @@ public class SampleTest
 	public void sampleTestMethod()
 	{
 		System.out.println("This is a sample test method.");
+		System.out.println("Login");
+		System.out.println("Added to account");
+		System.out.println("Logout");
 	}
 	
 	@Test
