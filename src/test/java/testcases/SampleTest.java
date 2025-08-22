@@ -9,5 +9,17 @@ public class SampleTest
 	{
 		System.out.println("This is a sample test method.");
 	}
+	
+	@Test
+	public void sampleTestMethod2()
+	{
+		System.out.println("This is a sample test method 2.");
+	}
+	
+	@Test
+	public void sampleTestMethod3()
+	{
+		System.out.println("This is a sample test method 3.");
+	}
 
 }
