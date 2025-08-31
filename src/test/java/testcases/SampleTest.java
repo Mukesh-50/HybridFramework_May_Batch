@@ -10,13 +10,13 @@ public class SampleTest
 		System.out.println("This is a sample test method.");
 
 		System.out.println("TestStep 1");
-    System.out.println("Login");
+		System.out.println("Login");
     
 		System.out.println("TestStep 2");
-    System.out.println("Added to account");
+		System.out.println("Added to account");
     
 		System.out.println("TestStep 3");
-    System.out.println("Logout");
+		System.out.println("Logout");
 
 	}
 	
